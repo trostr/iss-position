@@ -1,5 +1,6 @@
 {
   "name": "iss-position",
+  "homepage": "https://trostr.cz/iss/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
